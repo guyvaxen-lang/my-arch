@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="appstream://io.elementary.terminal" added="2026-05-08T13:25:20.823000Z" modified="2026-05-08T13:25:20.823000Z" visited="2026-05-08T13:25:20.823000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2026-05-08T13:25:20.823000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.konsole.desktop" added="2026-05-08T13:28:22.611000Z" modified="2026-05-08T13:28:22.611000Z" visited="2026-05-08T13:28:22.611000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2026-05-08T13:28:22.611000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://docs.kde.org/index.php?branch=stable5&amp;language=en_US&amp;application=systemsettings&amp;path=index.html" added="2026-05-08T13:56:46.319000Z" modified="2026-05-08T13:56:46.319000Z" visited="2026-05-08T13:56:46.319000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="vim" exec="vim %f" modified="2026-05-08T13:56:46.319000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

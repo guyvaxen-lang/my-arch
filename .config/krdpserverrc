@@ -1,0 +1,3 @@
+[General]
+Certificate=/home/guyvpro/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/guyvpro/.local/share/krdpserver/krdp.key
